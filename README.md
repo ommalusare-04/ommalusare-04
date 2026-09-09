@@ -55,6 +55,8 @@ I enjoy learning new technologies, building projects, solving problems, and turn
 * Django
 * SQL & DBMS
 * Git & GitHub
+* NodeJS
+  
 
 ---
 
